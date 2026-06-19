@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Desarrollador Full Stack con **+3 años** construyendo soluciones web e IA | Estudiante de 9º semestre en Ingeniería de Sistemas 🎓 | Ex AI Trainer en **OUTLIER AI** | Especializado en arquitecturas modernas y despliegues cloud
+Desarrollador Full Stack con **+3 años** construyendo soluciones web e IA | Estudiante de 9º semestre en Ingeniería de Sistemas 🎓 | Ex AI Trainer en **OUTLIER AI** | Especializado en arquitecturas modernas.
 
 ```typescript
 const jhonHarvey = {
